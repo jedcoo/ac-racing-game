@@ -11,3 +11,6 @@ The first part was writing the pseudocode that would guide the project taking in
 // Tech && Methodologies
 Java 7, OOP, IntelliJ IDEA, SimpleGFX Library, Adobe Photoshop, Git, Apache Ant
 
+
+![Untitled (Instagram Post (Square)) (600 × 1080 px) (600 × 900 px) (1)](https://user-images.githubusercontent.com/100316262/235168373-9f25eb77-96cc-45a5-8d84-c8e6f5c476d5.gif)
+
